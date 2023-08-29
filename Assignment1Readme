@@ -1,0 +1,17 @@
+A. Was confused on what outputs to include besides the final output as most were much larger than a screenshot could provide
+B.
+Step 1, No issue
+Step 2, No issue
+Step 3, Had issue at first where the command was not working, ended up resolving it with sudo
+Step 4, No issue installing dependencies
+Step 5, No issue
+Step 6, No issue
+Step 7, No issue
+Step 8, Setting was enabled
+Step 9, No issue
+Step 10, Took longer than expected, ended up interrupting and adding more cores
+Step 11, No issue
+Step 12, No issue
+Step 13, No issue
+Step 14, Wasnt getting GRUB menu after configuring, ended up using long shift press
+Step 15, Confirmed correct kernel
